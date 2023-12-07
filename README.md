@@ -1,3 +1,4 @@
+
 # Kodtest Stugbokning
 
 Här är mitt bidrag till kodtestet. 
@@ -15,7 +16,7 @@ Klona eller ladda ner projektet som Zip.
 <b>Note: Se till att du har Node.js installerat.
 Om inte så hämta det [Här](https://nodejs.org/en)  och installera det.</b>
 
-Klona eller ladda ner projektet som Zip.
+Klona eller ladda ner projektet som Zip.<br>
 Öppna kommandopromten/Terminal och ta dig till frontend mappen. 
 När du står i mappen så skriver du : ***npm install***
 Efter den har installerat färdigt så startar du Frontend klienten med kommandot: ***npm run serve***
