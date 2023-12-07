@@ -17,6 +17,11 @@ Klona eller ladda ner projektet som Zip.
 Om inte så hämta det [Här](https://nodejs.org/en)  och installera det.</b>
 
 Klona eller ladda ner projektet som Zip.<br>
-Öppna kommandopromten/Terminal och ta dig till frontend mappen. 
-När du står i mappen så skriver du : ***npm install***
+Öppna kommandopromten/Terminal och ta dig till frontend mappen. <br>
+När du står i mappen så skriver du : ***npm install***<br>
 Efter den har installerat färdigt så startar du Frontend klienten med kommandot: ***npm run serve***
+
+
+
+
+
